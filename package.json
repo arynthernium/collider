@@ -1,0 +1,20 @@
+{
+  "name": "collider",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A function to test how long it takes to generate the same value twice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arynthernium/collider.git"
+  },
+  "author": "aryn",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/arynthernium/collider/issues"
+  },
+  "homepage": "https://github.com/arynthernium/collider#readme"
+}
