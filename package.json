@@ -1,6 +1,6 @@
 {
-  "name": "collider",
-  "version": "1.0.0",
+  "name": "@arynthernium/collider",
+  "version": "1.0.1",
   "type": "module",
   "description": "A function to test how long it takes to generate the same value twice.",
   "main": "index.js",
